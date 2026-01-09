@@ -31,6 +31,7 @@ var addOns =
         "callgraph",
         "callhome",
         "client",
+        "cookiesqli",
         "commonlib",
         "coreLang",
         "custompayloads",
